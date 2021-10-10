@@ -1,0 +1,52 @@
+
+.container{
+}
+
+
+
+a{
+text-decoration: none; 
+color: currentColor;	
+}
+
+body{
+	background-color:#F6CB74;
+	width: inherit;
+
+	
+}
+img {
+  
+  }
+#promo{
+	background-image: url(cover5.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	
+	height: 70vh;
+}
+#texts{
+	position: absolute;
+	background-color: rgba(0,0,0,.2);
+	height: 100%;
+	width: 100%;
+
+}
+#promo1{
+	
+	
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+table, th, td {
+  border: 2px solid black;
+}
+
+
+
+
+
+
